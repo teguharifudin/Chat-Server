@@ -31,9 +31,9 @@ cd client-service
 npm run dev
 ```
 
-### Notificationn Service
+### Notification Service
 ```
-cd notificationn-service
+cd notification-service
 ```
 ```
 npm run dev
