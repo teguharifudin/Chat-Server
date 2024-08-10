@@ -2,7 +2,7 @@
 
 # Chat Server
 
-a real-time chat server using a microservices architecture with Express - Node.js, TypeScript, JWT auth, MongoDB, Socket.io, and RabbitMQ.
+a real-time chat server using a microservices architecture with Express - Node.js, TypeScript, JWT auth, MongoDB, Socket.IO, and RabbitMQ.
 
 ## Installation
 
